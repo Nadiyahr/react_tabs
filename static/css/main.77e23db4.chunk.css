@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{margin:0;font-family:sans-serif}.App{margin:50px;max-width:60%}.Tabs{border-bottom:1px solid #000}.Tabs__tab{border:1px solid #000;border-bottom:none;background-color:#fff;width:80px;height:40px;cursor:pointer}.Tabs__tab:not(:first-child){border-left:none}.Tabs__tab--selected{background-color:#dac9c9}
+/*# sourceMappingURL=main.77e23db4.chunk.css.map */
